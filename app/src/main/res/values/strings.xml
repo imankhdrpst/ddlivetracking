@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ddlivetracking</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="notification_text">Notification Text</string>
+</resources>
